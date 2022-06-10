@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Victor-Johnson
-- 👀 I’m interested in App development and Deep learning
+- 👀 I’m interested in App development and Data Science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @victorjohnson979@gmail.com
 
