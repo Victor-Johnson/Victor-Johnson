@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kolade</h1>
+<h1 align="center">Hi 👋, I'm Victor</h1>
 
-<h3 align="center">Python Backend Developer, AI, and Cloud Solutions.</h3>
+<h3 align="center">Python Backend & Data Engineering, AI, and Cloud Solutions.</h3>
 
 
 <h2 align="center">Languages and Tools:</h2>
