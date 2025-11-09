@@ -1,6 +1,6 @@
 # Hi 👋, I'm Victor Johnson
 
-### An experienced Jupyter notebook developer
+### Data and AI Software Engineer
 
 - 🔭 I'm currently working on **Working on a Pytorch Project with the Jetson Nano**
 
