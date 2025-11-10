@@ -1,6 +1,7 @@
 # Hi 👋, I'm Victor Johnson
 
 ### Data and AI Software Engineer
+#### "I enjoy designing systems that connect machine learning, data engineering, and cloud infrastructure — turning ideas into reliable solutions"
 
 - 🔭 I'm currently working on **Working on a Pytorch Project with the Jetson Nano**
 
@@ -8,7 +9,7 @@
 
 - 👯 I'm looking to collaborate on **open-source projects and anything in the data and AI space.**
 
-- 🤝 I'm looking for help with **Learning more about C++ and Robotics**
+- 🤝 Open to collaborating on **open-source AI & data engineering projects**
 
 - 💬 Ask me about **Data, Machine Learning and Cloud**
 
