@@ -5,10 +5,10 @@
  
 ---
  
-🎓 MSc Computer Vision, ML & Robotics — University of Surrey (CVSSP)  
+🎓 MSc Computer Vision, ML & Robotics — University of Surrey-(CVSSP)  
 🔭 Currently working on: **Learning-enabled digital twin for anomaly detection on Jetson Nano**  
-🌱 Currently learning: **PyTorch, ROS2, AWS Solutions Architect**  
-💬 Ask me about: **Data pipelines, Computer Vision, MLOps, Kafka, FastAPI**  
+🌱 Currently learning: **PyTorch, ROS2, Reinforcement Learning**  
+💬 Ask me about: **Data pipelines, Computer Vision, Machine Learning, Kafka, FastAPI**  
 📫 Reach me at: **koladejohnson@gmail.com**  
 🌐 Portfolio & writing: **[victorjohnson.dev](https://victorjohnson.dev)**
  
@@ -20,9 +20,9 @@
 |--------|-------------|-------|
 | [**Real-Time Stock Trade Analytics**](https://github.com/Victor-Johnson/Stock-Data-Streaming) | Live trade streaming with anomaly detection and Streamlit dashboard | Kafka · FastAPI · PostgreSQL · Streamlit |
 | [**UK Transaction Categorisation ML Service**](https://github.com/Victor-Johnson/transaction-categorization-ml-service) | Production-style ML service categorising UK bank transactions | TF-IDF · Logistic Regression · FastAPI · Docker |
-| [**London Housing dbt Project**](https://github.com/Victor-Johnson) | dbt + DuckDB pipeline for London housing data transformation | dbt · DuckDB · SQL |
-| [**Airbnb Listings Analysis**](https://github.com/Victor-Johnson) | Distributed data analysis using PySpark on Inside Airbnb dataset | PySpark · Jupyter · Python |
-| [**ASL Sign Language Recognition**](https://github.com/Victor-Johnson) | Transfer learning model for American Sign Language — 85% accuracy | TensorFlow · Keras · OpenCV |
+| [**London Housing dbt Project**]([https://github.com/Victor-Johnson](https://github.com/Victor-Johnson/London-housing-analytics)) | dbt + DuckDB pipeline for London housing data transformation | dbt · DuckDB · SQL |
+| [**Airbnb Listings Analysis**]([https://github.com/Victor-Johnson](https://github.com/Victor-Johnson/-Airbnb-Listings-with-PySpark-)) | Distributed data analysis using PySpark on Inside Airbnb dataset | PySpark · Jupyter · Python |
+| [**ASL Sign Language Recognition**]([https://github.com/Victor-Johnson](https://github.com/Victor-Johnson/Sign_language_Recongition)) | Transfer learning model for American Sign Language — 85% accuracy | TensorFlow · Keras · OpenCV |
  
 ---
 
