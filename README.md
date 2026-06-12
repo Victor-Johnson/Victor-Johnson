@@ -1,23 +1,30 @@
 # Hi 👋, I'm Victor Johnson
-
-### Data and AI Software Engineer
-#### "I enjoy designing systems that connect machine learning, data engineering, and cloud infrastructure ,turning ideas into reliable solutions"
-
-- 🔭 I'm currently working on **Working on a Pytorch Project with the Jetson Nano**
-
-- 🌱 I'm currently learning **Pyspark and Pytorch**
-
-- 👯 I'm looking to collaborate on **open-source projects and anything in the data and AI space.**
-
-- 🤝 Open to collaborating on **open-source AI & data engineering projects**
-
-- 💬 Ask me about **Data, Machine Learning and Cloud**
-
-- 📫 How to reach me **koladejohnson@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://koladejohnson.com](https://koladejohnson.com)**
-
-- 📝 I regularly write articles on **[https://koladejohnson.com](https://koladejohnson.com)**
+ 
+### ML & Data Engineer | Computer Vision | Robotics
+> *"I enjoy designing systems that connect machine learning, data engineering, and cloud infrastructure . turning ideas into reliable, production-ready solutions."*
+ 
+---
+ 
+🎓 MSc Computer Vision, ML & Robotics — University of Surrey (CVSSP)  
+🔭 Currently working on: **Learning-enabled digital twin for anomaly detection on Jetson Nano**  
+🌱 Currently learning: **PyTorch, ROS2, AWS Solutions Architect**  
+💬 Ask me about: **Data pipelines, Computer Vision, MLOps, Kafka, FastAPI**  
+📫 Reach me at: **koladejohnson@gmail.com**  
+🌐 Portfolio & writing: **[victorjohnson.dev](https://victorjohnson.dev)**
+ 
+---
+ 
+## 🚀 Projects
+ 
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Real-Time Stock Trade Analytics**](https://github.com/Victor-Johnson/Stock-Data-Streaming) | Live trade streaming with anomaly detection and Streamlit dashboard | Kafka · FastAPI · PostgreSQL · Streamlit |
+| [**UK Transaction Categorisation ML Service**](https://github.com/Victor-Johnson/transaction-categorization-ml-service) | Production-style ML service categorising UK bank transactions | TF-IDF · Logistic Regression · FastAPI · Docker |
+| [**London Housing dbt Project**](https://github.com/Victor-Johnson) | dbt + DuckDB pipeline for London housing data transformation | dbt · DuckDB · SQL |
+| [**Airbnb Listings Analysis**](https://github.com/Victor-Johnson) | Distributed data analysis using PySpark on Inside Airbnb dataset | PySpark · Jupyter · Python |
+| [**ASL Sign Language Recognition**](https://github.com/Victor-Johnson) | Transfer learning model for American Sign Language — 85% accuracy | TensorFlow · Keras · OpenCV |
+ 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
