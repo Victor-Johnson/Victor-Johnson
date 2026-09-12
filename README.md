@@ -1,6 +1,6 @@
 # Hi 👋, I'm Victor Johnson
  
-### ML & Data Engineer | Computer Vision | Robotics
+### AI/ML & Data Engineer | Computer Vision | Robotics
 > *"I enjoy designing systems that connect machine learning, data engineering, and cloud infrastructure . turning ideas into reliable, production-ready solutions."*
  
 ---
